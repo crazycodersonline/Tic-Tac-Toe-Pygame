@@ -5,6 +5,8 @@
 
 ### Snap Shot of Game UI :point_down:
 
+<img src="https://github.com/crazycodersonline/Tic-Tac-Toe-Pygame/blob/main/Game_UI.png" width="30%" height="50%" alt="GameUI">
+
 ### Project Tutorial Created by [@nitinmadas](https://github.com/nitinmadas)
 
 ### [Watch Video](https://www.youtube.com/watch?v=BWdzdO9mZmc)
